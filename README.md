@@ -19,21 +19,21 @@ $$N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L$$
 
 | Term | Meaning | My estimate |
 |---|---|---|
-| $R_st$ | New stars formed in the Milky Way per year | 1.5 |
+| $R_st$ | New stars formed in the Milky Way per year | 3 |
 | $f_p$ | Fraction of stars with planets | 1 |
 | $n_e$ | Habitable planets per planetary system | 0.05 |
 | $f_l$ | Fraction of those where life appears | 0.001 |
 | $f_i$ | Fraction of those where intelligence appears | 1 |
 | $f_c$ | Fraction of those that become detectable | 0.9 |
 | $L$ | Years a civilization stays detectable | 10,000 |
-| $N$ | Detectable civilizations in the galaxy | **0.675** |
+| $N$ | Detectable civilizations in the galaxy | **1.35** |
 
 Error bars available on request. They are large.
 
 <details>
 <summary>My reasoning</summary>
 
-- $R_st$: The Milky Way turns roughly 1.5 to 2 solar masses of gas into stars each year.
+- $R_st$: About 1.65 solar masses of new stars a year, and the typical star is half the Sun.
 - $f_p$: Exoplanet surveys suggest nearly every star has planets.
 - $n_e$: Somewhere temperate is common. Somewhere actually habitable is not.
 - $f_l$: Getting chemistry to become biology is the hard step.
