@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 190" width="960" height="190" role="img" aria-labelledby="t d">
+  <title id="t">Information is physical</title>
+  <desc id="d">1867 Maxwell: Maxwell's demon. 1929 Szilard: measurement has an entropy cost. 1961 Landauer: erasing a bit costs at least kT ln 2. 1972 Bekenstein: black hole entropy. 1982 Bennett: the demon pays when it erases its memory. 1989 Wheeler: "It from bit". 2002 Lloyd: computational capacity of the universe. 2010 Verlinde: gravity as an entropic force.</desc>
+  <style>
+    .ink   { stroke: #57606a; fill: none; }
+    .dot   { fill: #57606a; }
+    text   { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; fill: #1f2328; }
+    .yr    { font-size: 13px; font-weight: 600; }
+    .nm    { font-size: 12px; }
+    .lb    { font-size: 12px; fill: #656d76; }
+    @media (prefers-color-scheme: dark) {
+      .ink { stroke: #9198a1; }
+      .dot { fill: #9198a1; }
+      text { fill: #e6edf3; }
+      .lb  { fill: #9198a1; }
+    }
+  </style>
+
+  <!-- Baseline with minor ticks, drawing-sheet style. Stops are evenly spaced, not to scale. -->
+  <line class="ink" x1="10" y1="95" x2="850" y2="95" stroke-width="1"/>
+  <path class="ink" stroke-width="0.75" d="M10 92v6 M34 93v4 M58 93v4 M82 93v4 M106 93v4 M130 93v4 M154 93v4 M178 93v4 M202 93v4 M226 93v4 M250 93v4 M274 93v4 M298 93v4 M322 93v4 M346 93v4 M370 93v4 M394 93v4 M418 93v4 M442 93v4 M466 93v4 M490 93v4 M514 93v4 M538 93v4 M562 93v4 M586 93v4 M610 93v4 M634 93v4 M658 93v4 M682 93v4 M706 93v4 M730 93v4 M754 93v4 M778 93v4 M802 93v4 M826 93v4 M850 92v6"/>
+
+  <!-- Major ticks: even stops above the line, odd stops below. -->
+  <path class="ink" stroke-width="1" d="M25 72V95 M121 95V118 M217 72V95 M313 95V118 M409 72V95 M505 95V118 M601 72V95 M697 95V118"/>
+  <g class="dot">
+    <circle cx="25" cy="95" r="2.5"/><circle cx="121" cy="95" r="2.5"/><circle cx="217" cy="95" r="2.5"/><circle cx="313" cy="95" r="2.5"/>
+    <circle cx="409" cy="95" r="2.5"/><circle cx="505" cy="95" r="2.5"/><circle cx="601" cy="95" r="2.5"/><circle cx="697" cy="95" r="2.5"/>
+  </g>
+
+  <g>
+    <text class="yr" x="30" y="20">1867</text>
+    <text class="nm" x="30" y="35">Maxwell</text>
+    <text class="lb" x="30" y="50">Maxwell's demon</text>
+  </g>
+  <g>
+    <text class="yr" x="126" y="134">1929</text>
+    <text class="nm" x="126" y="149">Szilard</text>
+    <text class="lb" x="126" y="164">Measurement has an</text>
+    <text class="lb" x="126" y="178">entropy cost</text>
+  </g>
+  <g>
+    <text class="yr" x="222" y="20">1961</text>
+    <text class="nm" x="222" y="35">Landauer</text>
+    <text class="lb" x="222" y="50">Erasing a bit costs at</text>
+    <text class="lb" x="222" y="64">least kT ln 2</text>
+  </g>
+  <g>
+    <text class="yr" x="318" y="134">1972</text>
+    <text class="nm" x="318" y="149">Bekenstein</text>
+    <text class="lb" x="318" y="164">Black hole entropy</text>
+  </g>
+  <g>
+    <text class="yr" x="414" y="20">1982</text>
+    <text class="nm" x="414" y="35">Bennett</text>
+    <text class="lb" x="414" y="50">The demon pays when it</text>
+    <text class="lb" x="414" y="64">erases its memory</text>
+  </g>
+  <g>
+    <text class="yr" x="510" y="134">1989</text>
+    <text class="nm" x="510" y="149">Wheeler</text>
+    <text class="lb" x="510" y="164">"It from bit"</text>
+  </g>
+  <g>
+    <text class="yr" x="606" y="20">2002</text>
+    <text class="nm" x="606" y="35">Lloyd</text>
+    <text class="lb" x="606" y="50">Computational capacity</text>
+    <text class="lb" x="606" y="64">of the universe</text>
+  </g>
+  <g>
+    <text class="yr" x="702" y="134">2010</text>
+    <text class="nm" x="702" y="149">Verlinde</text>
+    <text class="lb" x="702" y="164">Gravity as an entropic</text>
+    <text class="lb" x="702" y="178">force</text>
+  </g>
+
+  <!-- End cap: Wheeler's participatory-universe U. -->
+  <g transform="translate(866 12)" stroke-width="1.1" stroke-linejoin="round">
+    <path class="ink" d="M8 10 C8 32 6 48 13 60 C22 76 58 78 67 60 C72 50 73 36 73 24 L61 24 C61 36 60 46 57 52 C50 63 28 63 21 53 C14 44 10 30 8 10 Z"/>
+    <path class="ink" d="M55 12 Q66 3 77 12 Q66 21 55 12 Z"/>
+    <circle class="dot" cx="61" cy="12" r="2.4"/>
+  </g>
+</svg>
