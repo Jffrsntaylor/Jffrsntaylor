@@ -1,4 +1,4 @@
-# Jeff Taylor <img src="assets/3d-ranger-bn.svg" alt="3d Ranger Battalion scroll and crest, 75th Ranger Regiment" height="56"> <img src="assets/173d-airborne.svg" alt="173d Airborne Brigade shoulder sleeve insignia" height="56">
+# Jeff Taylor <img src="assets/3d-ranger-bn.svg" alt="3d Ranger Battalion scroll and crest, 75th Ranger Regiment" height="56">
 
 - **Army Forward Observer**: Professionally good at finding coordinates.
 - **Aerospace Manufacturing** to **Founder** of a tech startup
