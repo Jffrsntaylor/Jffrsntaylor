@@ -1,8 +1,11 @@
 name: 3D contribution graph
 
 on:
-  schedule: # 08:00 UTC, early morning in the US
-    - cron: "0 8 * * *"
+  push: # rebuild on every push here; the bot's own commits don't retrigger it
+    branches: [main]
+    paths-ignore: ["profile-3d-contrib/**"]
+  schedule: # every 3 hours, to pick up activity in other repos
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 permissions:
