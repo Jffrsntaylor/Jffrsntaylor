@@ -25,8 +25,8 @@ $$N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L$$
 | $f_l$ | Fraction of those where life appears | 0.001 |
 | $f_i$ | Fraction of those where intelligence appears | 1 |
 | $f_c$ | Fraction of those that become detectable | 0.9 |
-| $L$ | Years a civilization stays detectable | 10,000 |
-| $N$ | Detectable civilizations in the galaxy | **5.4** |
+| $L$ | Years a civilization stays detectable | 2,500 |
+| $N$ | Detectable civilizations in the galaxy | **1.35** |
 
 Error bars available on request. They are large.
 
@@ -39,7 +39,7 @@ Error bars available on request. They are large.
 - $f_l$: Getting chemistry to become biology is the hard step.
 - $f_i$: Once life gets going, give it time and intelligence follows.
 - $f_c$: Most intelligent life ends up making noise.
-- $L$: Hopeful, but OK.
+- $L$: Based on how we are doing so far.
 
 </details>
 
