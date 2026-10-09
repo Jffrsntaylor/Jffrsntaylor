@@ -21,12 +21,12 @@ $$N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L$$
 |---|---|---|
 | $R_st$ | New stars formed in the Milky Way per year | 3 |
 | $f_p$ | Fraction of stars with planets | 1 |
-| $n_e$ | Habitable planets per planetary system | 0.05 |
+| $n_e$ | Habitable planets per planetary system | 0.2 |
 | $f_l$ | Fraction of those where life appears | 0.001 |
 | $f_i$ | Fraction of those where intelligence appears | 1 |
 | $f_c$ | Fraction of those that become detectable | 0.9 |
 | $L$ | Years a civilization stays detectable | 10,000 |
-| $N$ | Detectable civilizations in the galaxy | **1.35** |
+| $N$ | Detectable civilizations in the galaxy | **5.4** |
 
 Error bars available on request. They are large.
 
@@ -35,7 +35,7 @@ Error bars available on request. They are large.
 
 - $R_st$: About 1.65 solar masses of new stars a year, and the typical star is half the Sun.
 - $f_p$: Exoplanet surveys suggest nearly every star has planets.
-- $n_e$: Somewhere temperate is common. Somewhere actually habitable is not.
+- $n_e$: Rocky planets in the habitable zone are common. Red dwarfs make a lot of them hostile.
 - $f_l$: Getting chemistry to become biology is the hard step.
 - $f_i$: Once life gets going, give it time and intelligence follows.
 - $f_c$: Most intelligent life ends up making noise.
