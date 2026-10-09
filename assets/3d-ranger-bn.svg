@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="190 180 1404 1446" width="300" height="309" role="img" aria-labelledby="t">
+  <title id="t">3d Ranger Battalion scroll and crest, 75th Ranger Regiment</title>
+  <defs>
+    <clipPath id="sh"><path d="M555,790 Q720,742 892,770 Q1060,796 1232,760 L1232,1120 C1232,1330 1060,1470 892,1552 C724,1470 556,1330 556,1120 Z"/></clipPath>
+    <path id="arc" d="M535,512 Q892,392 1249,512"/>
+  </defs>
+  <g fill="#16161c" stroke="#16161c" stroke-width="72" stroke-linejoin="round">
+    <path d="M265,565 Q430,505 600,470 L600,665 Q430,740 268,842 Z"/>
+    <path d="M1519,565 Q1354,505 1184,470 L1184,665 Q1354,740 1516,842 Z"/>
+    <path d="M490,352 Q892,172 1294,352 L1269,612 Q892,398 515,612 Z"/>
+    <path d="M600.0,560.0 L1184.0,560.0 L1184.0,820.0 L600.0,820.0 Z"/>
+    <path d="M555,790 Q720,742 892,770 Q1060,796 1232,760 L1232,1120 C1232,1330 1060,1470 892,1552 C724,1470 556,1330 556,1120 Z"/>
+  </g>
+  <g fill="#16161c" stroke="#e5321f" stroke-width="13" stroke-linejoin="miter">
+    <path d="M265,565 Q430,505 600,470 L600,665 Q430,740 268,842 Z"/>
+    <path d="M1519,565 Q1354,505 1184,470 L1184,665 Q1354,740 1516,842 Z"/>
+    <path d="M512.0,612.0 L600.0,575.0 L600.0,665.0 Z"/>
+    <path d="M1272.0,612.0 L1184.0,575.0 L1184.0,665.0 Z"/>
+    <path d="M490,352 Q892,172 1294,352 L1269,612 Q892,398 515,612 Z"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', Times, serif" fill="#ffffff">
+    <text font-size="178" textLength="690" lengthAdjust="spacing"><textPath href="#arc" startOffset="50%" text-anchor="middle">RANGER</textPath></text>
+    <text transform="translate(305,758) rotate(-17)" font-size="235">3<tspan font-size="125" dy="-100">D</tspan></text>
+    <text transform="translate(1479,758) rotate(17)" font-size="235" text-anchor="end">B<tspan font-size="125" dy="-100">N</tspan></text>
+  </g>
+  <g clip-path="url(#sh)">
+    <rect x="540" y="700" width="352" height="420" fill="#1f5fd0"/>
+    <rect x="892" y="700" width="358" height="420" fill="#16a347"/>
+    <rect x="540" y="1120" width="352" height="460" fill="#16a347"/>
+    <rect x="892" y="1120" width="358" height="460" fill="#1f5fd0"/>
+    <path d="M892,700 V1580 M540,1112 H1250" stroke="#f1d21c" stroke-width="13"/>
+  </g>
+  <path d="M555,790 Q720,742 892,770 Q1060,796 1232,760 L1232,1120 C1232,1330 1060,1470 892,1552 C724,1470 556,1330 556,1120 Z" fill="none" stroke="#f1d21c" stroke-width="16"/>
+  <g fill="#ffffff" stroke="#f1d21c" stroke-width="8" stroke-linejoin="miter">
+    <path d="M730.0,828.0 L755.4,865.3 L796.0,845.7 L799.3,890.7 L844.3,894.0 L824.7,934.6 L862.0,960.0 L824.7,985.4 L844.3,1026.0 L799.3,1029.3 L796.0,1074.3 L755.4,1054.7 L730.0,1092.0 L704.6,1054.7 L664.0,1074.3 L660.7,1029.3 L615.7,1026.0 L635.3,985.4 L598.0,960.0 L635.3,934.6 L615.7,894.0 L660.7,890.7 L664.0,845.7 L704.6,865.3 Z"/>
+    <circle cx="730" cy="960" r="84"/>
+    <path d="M1025.0,1147.0 L1050.9,1219.4 L1127.7,1221.6 L1066.8,1268.6 L1088.5,1342.4 L1025.0,1299.0 L961.5,1342.4 L983.2,1268.6 L922.3,1221.6 L999.1,1219.4 Z"/>
+  </g>
+  <path d="M1120.0,878.0 L1058.0,878.0 L872.0,1062.0 L945.0,1050.0 L788.0,1192.0 L860.0,1180.0 L705.0,1305.0 L957.0,1135.0 L902.0,1142.0 L1027.0,1028.0 L972.0,1034.0 Z" fill="#f0441f" stroke="#f1d21c" stroke-width="9" stroke-linejoin="miter"/>
+</svg>
