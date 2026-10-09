@@ -44,24 +44,3 @@ Error bars available on request. They are large.
 </details>
 
 ![Timeline, information is physical: 1867 Maxwell, Maxwell's demon. 1929 Szilard, measurement has an entropy cost. 1961 Landauer, erasing a bit costs at least kT ln 2. 1972 Bekenstein, black hole entropy. 1982 Bennett, the demon pays when it erases its memory. 1989 Wheeler, "It from bit". 2002 Lloyd, computational capacity of the universe. 2010 Verlinde, gravity as an entropic force.](assets/timeline.svg)
-
-```
-01001001
-01110100
-00100000
-01100110
-01110010
-01101111
-01101101
-00100000
-01100010
-01101001
-01110100
-```
-
----
-
-<!-- HOLO:START -->
-<sub><i>This page holds 18,528 bits. A black hole storing the same information would have a horizon of about 51,370 Planck areas.</i></sub><br>
-<sub><i>The observable universe has had about 10<sup>90</sup> bits and 10<sup>120</sup> operations to work with (Lloyd, 2002).</i></sub>
-<!-- HOLO:END -->
