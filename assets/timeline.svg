@@ -14,6 +14,12 @@
       text { fill: #e6edf3; }
       .lb  { fill: #9198a1; }
     }
+    .me    { stroke: #cf222e; fill: none; }
+    .me-t  { font-family: "Segoe Print", "Bradley Hand", "Comic Sans MS", cursive; font-size: 17px; fill: #cf222e; }
+    @media (prefers-color-scheme: dark) {
+      .me   { stroke: #ff7b72; }
+      .me-t { fill: #ff7b72; }
+    }
   </style>
 
   <!-- Baseline with minor ticks, drawing-sheet style. Stops are evenly spaced, not to scale. -->
@@ -79,4 +85,11 @@
     <path class="ink" d="M55 12 Q66 3 77 12 Q66 21 55 12 Z"/>
     <circle class="dot" cx="61" cy="12" r="2.4"/>
   </g>
+
+  <!-- Hand-drawn "me" pointing at the end of the line. -->
+  <g stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path class="me" d="M908 160 C904 146 893 129 877 117 C870 112 864 107 859 103"/>
+    <path class="me" d="M870 101.5 L858.5 102.5 L861.5 113.5"/>
+  </g>
+  <text class="me-t" x="900" y="183" transform="rotate(-9 912 178)">me</text>
 </svg>
