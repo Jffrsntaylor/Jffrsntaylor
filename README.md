@@ -1,6 +1,6 @@
 # Jeff Taylor
 
-- **Army Forward Observer**: 75th Ranger Regiment, 173rd Airborne Brigade. Professionally good at finding coordinates.
+- **Army Forward Observer**: Professionally good at finding coordinates.
 - **Aerospace Manufacturing** to **Founder** of a tech startup
 - Pursuing a **Graduate Degree**
 
