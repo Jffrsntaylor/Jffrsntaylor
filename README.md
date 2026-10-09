@@ -62,6 +62,6 @@ Error bars available on request. They are large.
 ---
 
 <!-- HOLO:START -->
-<sub><i>This page holds 18,520 bits. A black hole storing the same information would have a horizon of about 51,350 Planck areas.</i></sub><br>
+<sub><i>This page holds 18,528 bits. A black hole storing the same information would have a horizon of about 51,370 Planck areas.</i></sub><br>
 <sub><i>The observable universe has had about 10<sup>90</sup> bits and 10<sup>120</sup> operations to work with (Lloyd, 2002).</i></sub>
 <!-- HOLO:END -->
