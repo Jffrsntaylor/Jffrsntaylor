@@ -15,31 +15,31 @@
 
 $$N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L$$
 
-<!-- PLACEHOLDERS: replace each estimate with your own. If you change any value, update N (the product of all seven). -->
+<!-- If you change any estimate, update N (the product of all seven). -->
 
 | Term | Meaning | My estimate |
 |---|---|---|
-| $R_\ast$ | New stars formed in the Milky Way per year | 2 *(placeholder)* |
-| $f_p$ | Fraction of stars with planets | 1 *(placeholder)* |
-| $n_e$ | Habitable planets per planetary system | 0.4 *(placeholder)* |
-| $f_l$ | Fraction of those where life appears | 0.1 *(placeholder)* |
-| $f_i$ | Fraction of those where intelligence appears | 0.1 *(placeholder)* |
-| $f_c$ | Fraction of those that become detectable | 0.1 *(placeholder)* |
-| $L$ | Years a civilization stays detectable | 10,000 *(placeholder)* |
-| $N$ | Detectable civilizations in the galaxy | **8** |
+| $R_st$ | New stars formed in the Milky Way per year | 1.5 |
+| $f_p$ | Fraction of stars with planets | 1 |
+| $n_e$ | Habitable planets per planetary system | 0.05 |
+| $f_l$ | Fraction of those where life appears | 0.001 |
+| $f_i$ | Fraction of those where intelligence appears | 1 |
+| $f_c$ | Fraction of those that become detectable | 0.9 |
+| $L$ | Years a civilization stays detectable | 10,000 |
+| $N$ | Detectable civilizations in the galaxy | **0.675** |
 
 Error bars available on request. They are large.
 
 <details>
 <summary>My reasoning</summary>
 
-- $R_\ast$: *(placeholder: one line on why)*
-- $f_p$: *(placeholder)*
-- $n_e$: *(placeholder)*
-- $f_l$: *(placeholder)*
-- $f_i$: *(placeholder)*
-- $f_c$: *(placeholder)*
-- $L$: *(placeholder)*
+- $R_st$: The Milky Way turns roughly 1.5 to 2 solar masses of gas into stars each year.
+- $f_p$: Exoplanet surveys suggest nearly every star has planets.
+- $n_e$: Somewhere temperate is common. Somewhere actually habitable is not.
+- $f_l$: Getting chemistry to become biology is the hard step.
+- $f_i$: Once life gets going, give it time and intelligence follows.
+- $f_c$: Most intelligent life ends up making noise.
+- $L$: Hopeful, but OK.
 
 </details>
 
