@@ -4,7 +4,7 @@
 - **Aerospace Manufacturing** to **Founder** of a tech startup
 - Pursuing a **Graduate Degree**
 
-**Toolbox:** `Python` `Java` `C#` `.NET` `JavaScript` `SQL` `C` `Azure` `Bicep` `GitHub Actions` `LaTeX` `Git` `Linux`
+**Toolbox:** `Python` `Java` `C#` `.NET` `JavaScript` `SQL` `C` `Azure` `Bicep` `GitHub Actions` `Git` `Linux`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
