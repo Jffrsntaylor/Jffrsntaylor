@@ -79,17 +79,10 @@
     <text class="lb" x="702" y="178">force</text>
   </g>
 
-  <!-- End cap: Wheeler's participatory-universe U. -->
-  <g transform="translate(866 12)" stroke-width="1.1" stroke-linejoin="round">
-    <path class="ink" d="M8 10 C8 32 6 48 13 60 C22 76 58 78 67 60 C72 50 73 36 73 24 L61 24 C61 36 60 46 57 52 C50 63 28 63 21 53 C14 44 10 30 8 10 Z"/>
-    <path class="ink" d="M55 12 Q66 3 77 12 Q66 21 55 12 Z"/>
-    <circle class="dot" cx="61" cy="12" r="2.4"/>
-  </g>
-
   <!-- Hand-drawn "me" pointing at the end of the line. -->
   <g stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <path class="me" d="M908 160 C904 146 893 129 877 117 C870 112 864 107 859 103"/>
     <path class="me" d="M870 101.5 L858.5 102.5 L861.5 113.5"/>
   </g>
-  <text class="me-t" x="900" y="183" transform="rotate(-9 912 178)">me</text>
+  <text class="me-t" x="900" y="183" transform="rotate(-9 912 178)">us</text>
 </svg>
