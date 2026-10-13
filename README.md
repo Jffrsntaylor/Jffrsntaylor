@@ -2,7 +2,7 @@
 
 - **Army Forward Observer**: Professionally good at finding coordinates.
 - **Aerospace Manufacturing** to **Founder** of a tech startup
-- Pursuing a **Graduate Degree**
+- Pursuing a **Graduate Degree** in Artificial Intelligence
 
 **Toolbox:** `Python` `Java` `C#` `.NET` `JavaScript` `SQL` `C` `Azure` `Bicep` `GitHub Actions` `Git` `Linux`
 
