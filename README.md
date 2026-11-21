@@ -1,7 +1,7 @@
 # Jeff Taylor <img src="assets/3d-ranger-bn.svg" alt="3d Ranger Battalion scroll and crest, 75th Ranger Regiment" height="56">
 
 - **Army Forward Observer**: Professionally good at finding coordinates.
-- **Aerospace Manufacturing** to **Founder** of a tech startup
+- **Aerospace Manufacturing**
 - Pursuing a **Graduate Degree** in Artificial Intelligence
 
 **Toolbox:** `Python` `Java` `C#` `.NET` `JavaScript` `SQL` `C` `Azure` `Bicep` `GitHub Actions` `Git` `Linux`
